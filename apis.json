@@ -1,0 +1,41 @@
+{
+    "name": "eReleases",
+    "description": "Press release distribution to over 100,000 journalists who want it! Measurable results with hundreds of testimonials to prove it. PR Newswire partner.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28680-ereleases.jpg",
+    "tags": [
+        "api not found",
+        "have api",
+        "press releases"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ereleases\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "eReleases",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28680-ereleases.jpg",
+            "humanURL": "http:\/\/ereleases.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ereleases-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ereleases"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/ereleases.com"
+        }
+    ]
+}
